@@ -1,0 +1,13 @@
+1. Provide the complete project code.
+- All PHP files, with the correct folder structure.
+- Complete, working code that I can copy and paste into my local project.
+- Clear explanations of what each class does and why it's designed that way.
+- I will create the files, run the project, and push everything to GitHub.
+
+2. Provide one comprehensive Markdown learning document.
+- All the concepts we covered today.
+- Clear explanations with practical PHP examples.
+- The questions I asked and the important misunderstandings we clarified.
+- The design decisions we made and the reasoning behind them.
+- How the project is structured, how the classes interact, and why we designed them this way.
+- Important takeaways to review later.
